@@ -20,7 +20,7 @@
 ---
 
 <p align="center"> 
-    <br> Tutorial of Jupyter Notebook in GCP AI Platform
+    <br> Tutorial of Jupyter Notebook in GCP AI Platform.
 </p>
 
 ## 📝 Table of Contents
