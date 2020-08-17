@@ -6,13 +6,13 @@
  
 </p>
 
-<h3 align="center">AI Notebooks Tutorial</h3>
+<h3 align="center">AI Notebook Tutorial</h3>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/da-huin/ai_notebooks_tutorial.svg)](https://github.com/da-huin/ai_notebooks_tutorial/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/da-huin/ai_notebooks_tutorial.svg)](https://github.com/da-huin/ai_notebooks_tutorial/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/da-huin/ai-notebook-tutorial.svg)](https://github.com/da-huin/ai-notebook-tutorial/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/da-huin/ai-notebook-tutorial.svg)](https://github.com/da-huin/ai-notebook-tutorial/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
